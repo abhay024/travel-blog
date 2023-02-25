@@ -1,0 +1,74 @@
+img {
+   height: 500px;
+   width:1000px;
+   display: block;
+   margin: 0 auto; 
+   
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+li {
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color:rgb(0, 0, 0);
+}
+
+h1 {
+    text-align:center;
+    font-size: 40px;
+}
+
+
+body {
+    background-color:azure;
+
+}
+h2 {
+    color:black;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+header {
+    min-height: 700px;
+    background-image:url("https://cdn.wallpapersafari.com/13/42/VfQj1M.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+#heading {
+    background: linear-gradient(to right, rgba(173, 216, 230, 0.4), rgba(127, 255, 212, 0.5));
+    padding: 5px;
+    -webkit-text-stroke: 0.6px orangered;
+}
+
+#navigate {
+    float: right;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.menu {
+    padding: 5px;
+    margin-right: 2px;
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    font-weight: 900;
+    -webkit-text-stroke: 0.2px red;
+
+}
+#quote {
+    text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+    color: firebrick;
+    -webkit-text-stroke: 3px black;
+    font-style: italic;
+}
